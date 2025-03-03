@@ -7,10 +7,12 @@ body {
     align-items: center;
     margin: 0;
     padding-top: 12px;
+    
 }
 
 #div-images {
     position: relative;
+    
 }
 
 #img-celular {

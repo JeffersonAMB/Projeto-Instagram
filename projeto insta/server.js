@@ -15,3 +15,6 @@ setInterval(() => {
     trocaImg()
 }, 3000);
 
+
+
+
