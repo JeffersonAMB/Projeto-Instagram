@@ -1,0 +1,139 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding-top: 12px;
+}
+
+#div-images {
+    position: relative;
+}
+
+#img-celular {
+    width: 460px;
+    height: 570.15px;
+    margin: 0;
+
+
+
+}
+
+.roll-images {
+    position: absolute;
+    left: 143px;
+    top: 22px;
+    width: 255px;
+    height: 489px;
+    transition: opacity 2s ease-in-out;
+}
+
+#div-geral {
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    margin: 0;
+    margin-top: 0;
+}
+
+.div-login {
+    background-color: #ffffff;
+    border: 1px solid #dbdbdb;
+    border-radius: 1px;
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    margin: 0;
+    justify-items: right;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+#baixar-app {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.baixar {
+    height: 40px;
+    cursor: pointer;
+}
+
+#logo-insta {
+    width: 175px;
+    height: 51px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.login {
+    border: 1px solid #dbdbdb;
+    height: 30px;
+    width: 250px;
+    padding-left: 8px;
+    outline: none;
+    background-color: #f9f9f9;
+    border-radius: 1px;
+
+}
+
+button {
+    color: white;
+    font-size: 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: #53bdeb;
+    height: 30px;
+    width: 265px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.organizando {
+    display: flex;
+
+}
+
+img {
+    margin-left: 8px;
+}
+
+#login-face {
+    color: #53bdeb;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+#login-face :hover {
+    opacity: 0.5;
+
+}
+
+#cadastrar-se {
+    color: #53bdeb;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+#novo-cadastro {
+    display: flex;
+    margin-top: 10px;
+    border: 1px solid #dbdbdb;
+    bottom: 30px;
+    width: 330px;
+    align-items: center;
+    justify-content: center;
+}
