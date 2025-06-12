@@ -65,14 +65,19 @@ css#div-geral {
 🏆 Indicadores de Senioridade
 🔥 Capacidade de Replicação
 Consegue analisar e reproduzir interfaces complexas existentes com precisão cirúrgica.
+
 🔥 Domínio de Posicionamento
 Position absolute usado corretamente para sobrepor imagens no mockup do celular.
+
 🔥 Animações Performáticas
 Usa CSS transitions em vez de JavaScript para animações - demonstra conhecimento de performance.
+
 🔥 Code Quality
 
 Sem dependências externas desnecessárias
+
 JavaScript vanilla eficiente
+
 CSS organizado e semântico
 
 
@@ -96,14 +101,20 @@ Consegue recriar qualquer interface existente ou criar do zero.
 Desenvolvedor que:
 
 ✅ Replica interfaces de grandes empresas (Meta/Instagram)
+
 ✅ Domina animações para criar experiências premium
+
 ✅ Código limpo que facilita manutenção da equipe
+
 ✅ Atenção aos detalhes que impressiona clientes finais
+
 
 = Capacidade de competir com grandes players do mercado
 
 🎯 Portfolio Diversificado = Desenvolvedor Completo
+
 ProjetoCompetência DemonstradaConversor MoedasLógica + APIs + FormataçãoClone InstagramDesign + Animações + UX
+
 Resultado: Desenvolvedor full-stack frontend pronto para qualquer desafio.
 
 📞 Este é o desenvolvedor que vai elevar o nível visual dos seus produtos!
